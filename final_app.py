@@ -5,7 +5,8 @@ import sqlite3
 import hashlib
 import time
 import random
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt# import matplotlib.pyplot as plt
+# import seaborn as sns
 import seaborn as sns
 
 from textblob import TextBlob
