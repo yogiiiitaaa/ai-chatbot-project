@@ -22,7 +22,7 @@ from scipy import stats
 # GPT SETUP (SAFE WAY)
 # =========================
 import os
-client = OpenAI(api_key=os.getenv("1bc92249-965f-4891-80b7-10133068b0e1"))
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # =========================
 # DATABASE
